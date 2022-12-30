@@ -8,4 +8,3 @@
 [![Lixuannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lixuannan&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixuannan&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
----
