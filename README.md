@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Nothing 
 - 📫 Email: codingcow@tuta.io
 - &#x260E; Telephone Number: +86 188 1928 4430 
-<!---
-Lixuannan/Lixuannan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+[![Lixuannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lixuannan&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixuannan&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
